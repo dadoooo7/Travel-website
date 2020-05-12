@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "Starting Files\\icons"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Project1-Travel Website"
+  }
+}
